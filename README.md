@@ -1,2 +1,2 @@
-# hello python
+hello python
 sql
